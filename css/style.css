@@ -2864,14 +2864,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #dc3545;
-  border-color: #dc3545;
+  color: #E8D9C5;
+  border-color: #E8D9C5;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #E8D9C5;
+  border-color: #E8D9C5;
 }
 
 .btn-outline-primary:focus,
@@ -10169,7 +10169,7 @@ a.text-dark:focus {
 }
 
 .bannerDialog {
-  background:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/sansani2.jpg), no-repeat center center;
+  background:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/sansanicover.jpg), no-repeat center center;
   background-size: cover;
 }
 
@@ -10232,7 +10232,7 @@ a.text-dark:focus {
 } */
 
 #closemodal {
-  animation: cssAnimation 0s 5s forwards;
+  animation: cssAnimation 0s 0.2s forwards;
   visibility: hidden;
 }
 
