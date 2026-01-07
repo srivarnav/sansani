@@ -3044,14 +3044,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #dc3545;
-  border-color: #dc3545;
+  color: #E8D9C5;
+  border-color: #E8D9C5;
 }
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #E8D9C5;
+  border-color: #E8D9C5;
 }
 
 .btn-outline-danger:focus,
@@ -9671,7 +9671,8 @@ button.bg-dark:focus {
 }
 
 .text-darkRed {
-  color: #7A1F2B !important;
+  /* color: #7A1F2B !important; */
+  color: #D4AF37 !important;
 }
 
 .text-primary {
@@ -10168,7 +10169,7 @@ a.text-dark:focus {
 }
 
 .bannerDialog {
-  background: url(../img/bannerarayu.jpeg), no-repeat center center;
+  background:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/sansani2.jpg), no-repeat center center;
   background-size: cover;
 }
 
